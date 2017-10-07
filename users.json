@@ -1,0 +1,21 @@
+[
+    {
+    "name":"siyath",
+    "age":24,
+    "ismarried":false,
+    "mail":"siyath@gmail.com"
+    },
+    {
+    "name":"bhasidh",
+    "age":28,
+    "ismarried":true,
+    "mail":"bhasidh@gmail.com"   
+    },
+    {
+        "name":"sid",
+        "age":23,
+        "ismarried":true,
+        "mail":"sid@gmail.com"
+    }
+    
+]

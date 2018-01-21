@@ -1,0 +1,26 @@
+[
+  {
+  "id":1,
+  "name":"siyath",
+  "company": "Roljobs",
+  "phone":7010663388
+  },
+  {
+  "id":2,
+  "name":"Bhasidh",
+  "company": "Zayn labs",
+  "phone":8768090978
+  },
+  {
+  "id":3,
+  "name":"Jainambu",
+  "company": "House Wife",
+  "phone":98765678967
+  },
+  {
+  "id":4,
+  "name":"Sidhikka",
+  "company": "House wife",
+  "phone":9876898767
+  }
+]

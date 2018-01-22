@@ -1,0 +1,20 @@
+[
+  {
+    "id":1,
+    "name":"siyath",
+    "age":25,
+    "company":"roljobs"
+  },
+  {
+    "id":2,
+    "name":"Bhasidh",
+    "age":29,
+    "company":"roljobs"
+  },
+  {
+    "id":1,
+    "name":"sid",
+    "age":24,
+    "company":"roljobs"
+  }
+]

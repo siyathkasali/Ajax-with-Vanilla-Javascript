@@ -1,0 +1,17 @@
+[
+  {
+    "fname" :"siyath",
+    "age": 25,
+    "company": "Roljobs"
+  },
+  {
+    "fname" :"Bhasidh",
+    "age": 29,
+    "company": "Business"
+  },
+  {
+    "fname" :"sid",
+    "age": 24,
+    "company": "house"
+  }
+]
